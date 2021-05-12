@@ -20,7 +20,7 @@
     "jasmine": "^3.5.0",
     "jshint": "^2.10.2",
     "ngstorage": "^0.3.11",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "popper.js": "^1.14.3"
   }
 }
